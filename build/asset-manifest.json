@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ParallaxFadeIn/static/css/main.db03f86e.chunk.css",
+    "main.js": "/ParallaxFadeIn/static/js/main.9536eb35.chunk.js",
+    "main.js.map": "/ParallaxFadeIn/static/js/main.9536eb35.chunk.js.map",
+    "runtime-main.js": "/ParallaxFadeIn/static/js/runtime-main.6a8ae6aa.js",
+    "runtime-main.js.map": "/ParallaxFadeIn/static/js/runtime-main.6a8ae6aa.js.map",
+    "static/js/2.1a4e2c0d.chunk.js": "/ParallaxFadeIn/static/js/2.1a4e2c0d.chunk.js",
+    "static/js/2.1a4e2c0d.chunk.js.map": "/ParallaxFadeIn/static/js/2.1a4e2c0d.chunk.js.map",
+    "index.html": "/ParallaxFadeIn/index.html",
+    "precache-manifest.dc513bb06b84018a37b0c084f0b996e5.js": "/ParallaxFadeIn/precache-manifest.dc513bb06b84018a37b0c084f0b996e5.js",
+    "service-worker.js": "/ParallaxFadeIn/service-worker.js",
+    "static/css/main.db03f86e.chunk.css.map": "/ParallaxFadeIn/static/css/main.db03f86e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8ae6aa.js",
+    "static/js/2.1a4e2c0d.chunk.js",
+    "static/css/main.db03f86e.chunk.css",
+    "static/js/main.9536eb35.chunk.js"
+  ]
+}
